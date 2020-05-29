@@ -19,7 +19,7 @@ a:hover{text-decoration:none;color:#ff5f00;}
 input{font-family:Helvetica,Arial,Microsoft Yahei,sans-serif;;font-size: 0.35rem;}
 input,textarea{-webkit-appearance: none;border-radius:0;}
 
-@font-face {font-family: 'iconfont';src: url('https://cdn.jsdelivr.net/gh/qishao520/upload/tv_52meme_top/fonts/member/iconfont.eot');src: url('https://cdn.jsdelivr.net/gh/qishao520/upload/tv_52meme_top/fonts/member/iconfont.eot?#iefix') format('embedded-opentype'),url('https://cdn.jsdelivr.net/gh/qishao520/upload/tv_52meme_top/fonts/member/iconfont.woff2') format('woff2'),url('https://cdn.jsdelivr.net/gh/qishao520/upload/tv_52meme_top/fonts/member/iconfont.woff') format('woff'),url('https://cdn.jsdelivr.net/gh/qishao520/upload/tv_52meme_top/fonts/member/iconfont.ttf') format('truetype'),url('https://cdn.jsdelivr.net/gh/qishao520/upload/tv_52meme_top/fonts/member/iconfont.svg#iconfont') format('svg');}
+@font-face {font-family: 'iconfont';src: url('../../fonts/member/iconfont.eot');src: url('../../fonts/member/iconfont.eot?#iefix') format('embedded-opentype'),url('../../fonts/member/iconfont.woff2') format('woff2'),url('../../fonts/member/iconfont.woff') format('woff'),url('../../fonts/member/iconfont.ttf') format('truetype'),url('../../fonts/member/iconfont.svg#iconfont') format('svg');}
 .iconfont {font-family: "iconfont" !important;font-style: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 
 input::-webkit-input-placeholder{font-size: 0.35rem;color: #ccc;}
