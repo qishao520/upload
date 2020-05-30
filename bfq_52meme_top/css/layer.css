@@ -51,11 +51,11 @@ html #layuicss-layer {
 }
 
 .layui-layer-load {
-	background: url(loading-1.gif) center center no-repeat #eee
+	background: url(https://cdn.jsdelivr.net/gh/qishao520/upload/bfq_52meme_top/images/loading.gif) center center no-repeat #eee
 }
 
 .layui-layer-ico {
-	background: url(icon.png) no-repeat
+	background: url(https://cdn.jsdelivr.net/gh/qishao520/upload/bfq_52meme_top/images/favicon.png) no-repeat
 }
 
 .layui-layer-btn a,.layui-layer-dialog .layui-layer-ico,.layui-layer-setwin a {
